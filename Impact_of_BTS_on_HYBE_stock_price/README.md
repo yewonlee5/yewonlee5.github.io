@@ -9,6 +9,6 @@ There are 1 response variable and 5 independent variables that I looked into. Al
 
 To get the daily music streaming data, I used Python to web-scrape from the Spotify daily charts of top streaming songs for each day. (Python code is [here](./Spotify_chart.ipynb).) Using MySQL, I selected daily summations of stream numbers of BTS’s songs. After importing datasets of other variables and joining those tables based on the date, I got the final data set. (MySQL code is [here](./Preparing_datasets.sql).)
 
-In the Modeling part, I fitted the models with **Multi Linear Regression** and two **Non-parametric Methods**--**Kernel Regression Estimate and Generalized Additive Model**. (R code is [here](./Data_Analysis.md).)
+In the Modeling part, I fitted the models with **Multi Linear Regression** and two **Non-parametric Methods**--**Kernel Regression Estimate and Generalized Additive Model**. (R code is [here](./main.md).)
 
 You can also see [the presentation](https://prezi.com/view/4LvnXsjA25EFY3OdzjKb/).
