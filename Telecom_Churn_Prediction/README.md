@@ -6,23 +6,35 @@ Data has been retreived from [Kaggle](https://www.kaggle.com/datasets/blastchar/
 
 # Exploratory Data Analysis
 
-images 1~4
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Churn_bar](/images/1_churn_bar.png)
+![Monthly_charges](/images/2_monthly_charges.png)
+![Total_charges](/images/3_total_charges.png)
+![Correlations](/images/4_cor_chrun.png)
 
 After checking of missing data, there were 11 missing values in the response variable `Churn` and I removed them. Among 19 features, only 2 were numerical and 17 were categorical variables. Plotting the numerical variables, both features were right-skewed distributed, but I have decided not to make any transformation or manipulation since they were good enough and without transformation we can keep the interpretation simpler. Constructing a correlation plot of `Churn` with other independent variables, tenure and two year contracts seem to be negatively correlated with churn. On the other hand, month to month contracts, absence of online security and tech support seem to be positively correlated with churn.
 
 ## A. Demographics
 
-IMAGES 5~9
-
+![Gender](/images/5_gender.png)
+![Senior](/images/6_senior.png)
+![Churn_by_Senior](/images/7_senior_churn.png)
+![Dependents_Partner](/images/8_dependents_partner.png)
+![Churn_by_Partner](/images/9_partner_churn.png)
 
 ## B. Customer Account Information
 
 IMAGES 10~16
+![Tenure](/images/10_tenure.png)
+![Churn_by_Tenure](/images/11_tenure_churn.png)
+![Contract](/images/12_contract.png)
+![Tenure_Contract](/images/13_tenure_contract.png)
+![Monthly_Total_charges](/images/14_monthly_total.png)
+![Churn_by_Monthly_charge](/images/15_monthly_churn.png)
+![Churn_by_Total_charge](/images/16_total_churn.png)
 
 ## C. Services Information
 
-IMAGES 17
+![Services](/images/17_services.png)
 
 # Data Preparation
 ## A. Resampling
@@ -30,16 +42,23 @@ IMAGES 17
 
 # Modeling
 ## A. Logistic Regression -- baseline model
-IMAGES 18~19
+![Logistic_regression](/images/18_LR_1.png)
+![Logistic_regression](/images/19_LR_2.png)
+
 ## B. Random Forest
-IMAGES 20
+![Random_forest](/images/20_RF.png)
+
 ## C. Support Vector Machine (SVM)
-IMAGES 21
+![SVM](/images/21_SVM.png)
+
 ## D. ADA Boost
-IMAGES 22
+![ADAboost](/images/22_ADA.png)
+
 ## E. XG Boost
-IMAGES 23
+![XGboost](/images/23_XG.png)
+
 # Results
 ## Key foundings and Recommendations
-IMAGES 24
+![ROC_AUC](/images/24_ROC.png)
+
 ## Potential next steps or further research topics
