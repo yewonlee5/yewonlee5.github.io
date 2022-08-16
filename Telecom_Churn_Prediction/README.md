@@ -6,12 +6,13 @@ Data has been retreived from [Kaggle](https://www.kaggle.com/datasets/blastchar/
 
 # Exploratory Data Analysis
 
-<img src="images/bts.png" height="300"/>
+<p align="center">
+  <img width="460" src="images/1_churn_bar.png">
+</p>
 
-![Churn_bar](images/1_churn_bar.png)
-![Monthly_charges](/images/2_monthly_charges.png)
-![Total_charges](/images/3_total_charges.png)
-![Correlations](/images/4_cor_chrun.png)
+![Monthly_charges](images/2_monthly_charges.png)
+![Total_charges](images/3_total_charges.png)
+![Correlations](images/4_cor_chrun.png)
 
 After checking of missing data, there were 11 missing values in the response variable `Churn` and I removed them. Among 19 features, only 2 were numerical and 17 were categorical variables. Plotting the numerical variables, both features were right-skewed distributed, but I have decided not to make any transformation or manipulation since they were good enough and without transformation we can keep the interpretation simpler. Constructing a correlation plot of `Churn` with other independent variables, tenure and two year contracts seem to be negatively correlated with churn. On the other hand, month to month contracts, absence of online security and tech support seem to be positively correlated with churn.
 
