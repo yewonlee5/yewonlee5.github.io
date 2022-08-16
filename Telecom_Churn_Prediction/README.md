@@ -6,7 +6,9 @@ Data has been retreived from [Kaggle](https://www.kaggle.com/datasets/blastchar/
 
 # Exploratory Data Analysis
 
-![Churn_bar](/images/1_churn_bar.png)
+<img src="images/bts.png" height="300"/>
+
+![Churn_bar](images/1_churn_bar.png)
 ![Monthly_charges](/images/2_monthly_charges.png)
 ![Total_charges](/images/3_total_charges.png)
 ![Correlations](/images/4_cor_chrun.png)
