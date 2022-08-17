@@ -1,4 +1,4 @@
-Analysis of the Impact of Popularity of the Product on the stock price
+Analysis on the Impact of Popularity of the Product on the stock price
 of the Company – A Case Study : BTS and its management company HYBE
 ================
 Yewon Lee
