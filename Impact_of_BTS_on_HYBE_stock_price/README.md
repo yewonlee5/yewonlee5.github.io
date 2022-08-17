@@ -1,4 +1,4 @@
-# The Impact of the Popularity of BTS on the stock price of HYBE
+# The Impact on the Popularity of BTS on the stock price of HYBE
 This project started with the question **“Does the popularity of the products of the company have an impact on the stock price of that company?”**
 
 But it wouldn’t be feasible to analyze every industry or every company, so I did the case study with this specific entertainment company, HYBE, which is a management agency of BTS. I chose this company not because I’m a fan of them, but because I worked for this company for a year as a business analyst and the question above was one of what I was always asked about.
