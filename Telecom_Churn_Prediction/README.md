@@ -8,8 +8,6 @@ Data has been retreived from [Kaggle](https://www.kaggle.com/datasets/blastchar/
 
 <p align="center">
   <img height="300" src="images/1_churn_bar.png">
-</p>
-<p align="center">
   <img height="300" src="images/2_monthly_charges.png">
   <img height="300" src="images/3_total_charges.png">
   <img width="1000" src="images/4_cor_chrun.png">
