@@ -18,11 +18,17 @@ After checking of missing data, there were 11 missing values in the response var
 
 ## A. Demographics
 
-![Gender](/images/5_gender.png)
-![Senior](/images/6_senior.png)
-![Churn_by_Senior](/images/7_senior_churn.png)
-![Dependents_Partner](/images/8_dependents_partner.png)
-![Churn_by_Partner](/images/9_partner_churn.png)
+
+<p align="center">
+  <img width="300" src="images/5_gender.png">
+</p>
+<p align="center">
+  <img width="300" src="images/6_senior.png">
+  <img width="300" src="images/7_senior_churn.png">
+  <img width="300" src="images/8_dependents_partner.png">
+  <img width="300" src="images/9_partner_churn.png">
+</p>
+
 
 ## B. Customer Account Information
 
