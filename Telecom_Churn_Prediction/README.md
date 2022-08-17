@@ -7,10 +7,10 @@ Data has been retreived from [Kaggle](https://www.kaggle.com/datasets/blastchar/
 # Exploratory Data Analysis
 
 <p align="center">
-  <img height="200" src="images/1_churn_bar.png">
-  <img height="200" src="images/2_monthly_charges.png">
-  <img height="200" src="images/3_total_charges.png">
-  <img width="800" src="images/4_cor_chrun.png">
+  <img height="300" src="images/1_churn_bar.png">
+  <img height="300" src="images/2_monthly_charges.png">
+  <img height="300" src="images/3_total_charges.png">
+  <img width="1000" src="images/4_cor_chrun.png">
 </p>
 
 
