@@ -7,9 +7,11 @@ Data has been retreived from [Kaggle](https://www.kaggle.com/datasets/blastchar/
 # Exploratory Data Analysis
 
 <p align="center">
-  <img height="220" src="images/1_churn_bar.png">
-  <img height="220" src="images/2_monthly_charges.png">
-  <img height="220" src="images/3_total_charges.png">
+  <img width="400" src="images/1_churn_bar.png">
+</p>
+<p align="center">
+  <img width="400" src="images/2_monthly_charges.png">
+  <img width="400" src="images/3_total_charges.png">
   <img width="1000" src="images/4_cor_chrun.png">
 </p>
 
@@ -20,15 +22,20 @@ After checking of missing data, there were 11 missing values in the response var
 
 
 <p align="center">
-  <img width="300" src="images/5_gender.png">
-</p>
-<p align="center">
-  <img width="300" src="images/6_senior.png">
-  <img width="300" src="images/7_senior_churn.png">
-  <img width="300" src="images/8_dependents_partner.png">
-  <img width="300" src="images/9_partner_churn.png">
+  <img width="400" src="images/5_gender.png">
 </p>
 
+<p align="center">
+  <img width="400" src="images/6_senior.png">
+  <img width="400" src="images/7_senior_churn.png">
+</p>
+  
+<p align="center">
+  <img width="400" src="images/8_dependents_partner.png">
+  <img width="400" src="images/9_partner_churn.png">
+</p>
+
+Analyzing demographic variables, about half of the customers in our dataset are male while the other half are female. Most of our customers in the data set are younger people and senior citizens have almost double the churn rate than younger population. About 50% of the customers have a partner, while only 30% of the total customers have dependents. Among the customers who have a partner, only about half of them also have a dependentd. Among the customers who do not have any partner, a majority of them do not have any dependents.
 
 ## B. Customer Account Information
 
