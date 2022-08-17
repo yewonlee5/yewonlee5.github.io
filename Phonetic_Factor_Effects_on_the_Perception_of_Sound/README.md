@@ -35,6 +35,6 @@ The table below shows the data from the experiment. The responses are from three
 
 <img src="images/table.png" width="1000"/>
 
-The goal is to learn which factor among VOT, pitch, and intensity affects people’s response time the most. Here is [the full code and description of the analysis using R](./Data_Analysis.md), including the conclusion and the possible improvements.
+The goal is to learn which factor among VOT, pitch, and intensity affects people’s response time the most. Here is [the full code and description of the analysis using R](./main.md), including the conclusion and the possible improvements.
 
 You can also see [the presentation](https://prezi.com/view/1Xlo63w6VI82Hif5afEA/).
