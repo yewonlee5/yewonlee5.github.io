@@ -74,11 +74,13 @@ Since some of machine learning methods (E.g. SVM) try to maximize the distance b
 # Modeling
 ## A. Logistic Regression -- baseline model
 
+```
 Accuracy: 0.7517
 Precision: 0.7356
 Recall: 0.7874
 F1 Score: 0.7606
 ROC_AUC: 0.7516
+```
 
 <p align="center">
   <img width="500" src="images/18_LR_1.png">
