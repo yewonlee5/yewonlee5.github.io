@@ -92,11 +92,13 @@ Total charges, monthly contracts and fiber optic internet services can lead to h
 
 ## B. Random Forest
 
+```
 Accuracy: 0.7638
 Precision: 0.7462
 Recall: 0.801
 F1 Score: 0.7726
 ROC_AUC: 0.7637
+```
 
 <p align="center">
   <img width="500" src="images/20_RF.png">
@@ -107,11 +109,13 @@ Monthly contract, tenure and total charges are the most important predictor vari
 
 ## C. Support Vector Machine (SVM)
 
+```
 Accuracy: 0.7372
 Precision: 0.6994
 Recall: 0.8338
 F1 Score: 0.7607
 ROC_AUC: 0.737
+```
 
 <p align="center">
   <img width="1000" src="images/21_SVM.png">
@@ -121,11 +125,13 @@ The accuracy rate decreases to 73% by using SVM model. Monthly contract is the m
 
 ## D. ADA Boost
 
+```
 Accuracy: 0.7585
 Precision: 0.7384
 Recall: 0.8019
 F1 Score: 0.7689
 ROC_AUC: 0.7584
+```
 
 <p align="center">
   <img width="500" src="images/22_ADA.png">
@@ -135,11 +141,13 @@ The accuracy rate increases up to 76% by using ADA Boost model. Total charges, m
 
 ## E. XG Boost
 
+```
 Accuracy: 0.8504
 Precision: 0.8097
 Recall: 0.9169
 F1 Score: 0.86
 ROC_AUC: 0.8503
+```
 
 <p align="center">
   <img width="500" src="images/23_XG.png">
